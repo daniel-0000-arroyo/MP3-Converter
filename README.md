@@ -4,7 +4,9 @@ Sin necesidad de abrir paginas web desde el navegador, ni descargando archivos d
 
 ¿Como usarlo?
 
-- Simplemente descarga el repositorio y introduce los datos de la API en el script.
+- Simplemente descarga y descomprime el repositorio (el app.py y el ffmpeg, que es necesario para funcionar).
+
+- Introduce los datos de la API en el script.
 
 - Inicia el script y elije entre las dos opciones.
 
